@@ -44,13 +44,19 @@ The following process documents detail OctoAcme's project management lifecycle, 
 ### Supporting Documents
 
 - **[Roles and Personas](octoacme-roles-and-personas.md)**  
-  Defines typical roles and responsibilities at OctoAcme, including Developers, Product Managers, and Project Managers, with details on goals, responsibilities, and communication patterns.
+  Defines typical roles and responsibilities at OctoAcme, including Developers, Product Managers, Project Managers, Business Analysts, UX Designers, Scrum Masters, and Technical Leads. Includes goals, responsibilities, communication patterns, and cross-functional interactions.
+
+- **[Role-Responsibility Matrix (RACI)](octoacme-role-responsibility-matrix.md)**  
+  A comprehensive RACI matrix template clarifying who is Responsible, Accountable, Consulted, and Informed for key project activities across all phases. Use this to establish clear ownership and avoid accountability gaps.
+
+- **[Cross-Functional Coordination Checklist](octoacme-coordination-checklist.md)**  
+  A detailed checklist ensuring effective handoffs, feedback loops, and coordination between roles throughout the project lifecycle. Helps maintain accountability and avoid communication gaps.
 
 ## Using These Documents
 
-- **For new team members:** Start with the [Project Management Overview](octoacme-project-management-overview.md) and [Roles and Personas](octoacme-roles-and-personas.md) to understand how OctoAcme operates.
-- **For project kickoffs:** Follow the sequence from [Project Initiation](octoacme-project-initiation.md) through [Project Planning](octoacme-project-planning.md).
-- **During active projects:** Reference [Execution & Tracking](octoacme-execution-and-tracking.md) and [Risk Management & Communication](octoacme-risks-and-communication.md) for day-to-day guidance.
+- **For new team members:** Start with the [Project Management Overview](octoacme-project-management-overview.md) and [Roles and Personas](octoacme-roles-and-personas.md) to understand how OctoAcme operates. Review the [Role-Responsibility Matrix](octoacme-role-responsibility-matrix.md) to understand cross-functional accountability.
+- **For project kickoffs:** Follow the sequence from [Project Initiation](octoacme-project-initiation.md) through [Project Planning](octoacme-project-planning.md). Use the [Role-Responsibility Matrix](octoacme-role-responsibility-matrix.md) to clarify roles and the [Coordination Checklist](octoacme-coordination-checklist.md) to ensure effective handoffs.
+- **During active projects:** Reference [Execution & Tracking](octoacme-execution-and-tracking.md) and [Risk Management & Communication](octoacme-risks-and-communication.md) for day-to-day guidance. Use the [Coordination Checklist](octoacme-coordination-checklist.md) to track cross-functional activities.
 - **For releases:** Consult the [Release & Deployment Guide](octoacme-release-and-deployment.md).
 - **For learning and improvement:** Use [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) to drive continuous growth.
 

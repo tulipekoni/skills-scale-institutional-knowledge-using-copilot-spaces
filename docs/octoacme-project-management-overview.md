@@ -17,6 +17,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- Technical Lead: provides technical direction, architectural guidance, and code quality oversight.
+- Business Analyst: gathers requirements, documents business rules, validates solutions.
+- UX Designer: creates user-centered designs, conducts research, ensures usability.
+- Scrum Master: facilitates agile ceremonies, removes impediments, coaches team processes.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
@@ -27,6 +31,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- Role-Responsibility Matrix (RACI)
+- Cross-Functional Coordination Checklist
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
